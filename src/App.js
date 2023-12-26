@@ -1,7 +1,7 @@
 //import logo from './logo.svg';
 //import './App.css';
 //import { Route, Router } from 'react-router-dom';
-import { BrowserRouter as Routes, Route } from 'react-router-dom';
+import {Routes, Route } from 'react-router-dom';
 import App from './App';
 
 import React from 'react';
@@ -24,4 +24,4 @@ function MainApp() {
   );
 }
 
-export default MainAppApp;
+export default MainApp;
